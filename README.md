@@ -90,7 +90,7 @@
   </a>
 
   <!-- Gmail (mailto link) -->
-  <a href="vishwakarmajigar189@gmail.com" target="_blank">
+  <a href="mailto:yourname@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
