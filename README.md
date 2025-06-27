@@ -72,11 +72,27 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:jigarvishwakarma333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/jigarvishwakarma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<h3>Where to find me</h3>
+<p>
+  <!-- GitHub -->
+  <a href="https://github.com/yourusername" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/yourusername/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Gmail (mailto link) -->
+  <a href="mailto:yourname@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
