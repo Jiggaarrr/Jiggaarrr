@@ -9,7 +9,7 @@
 - 💼 Focused on **End-to-End Data Projects**: from data wrangling to ML deployment
 - 🔭 Working on **AI-Powered Dashboards**, Forecasting models, and NLP use cases
 - 🧠 Inspired by **Tony Stark, Elon Musk, Jon Snow, King Baldwin** — strategic, fearless & visionary
-- 📫 How to reach me: `jigarvishwakarma333@gmail.com`
+- 📫 How to reach me: `vishwakarmajigar189@gmail.com`
 
 ---
 
