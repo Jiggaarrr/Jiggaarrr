@@ -80,12 +80,12 @@
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="www.linkedin.com/in/jigar-vishwakarma-2a8b57309" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/yourusername/" target="_blank">
+  <a href="https://www.instagram.com/jiggaarrr.__/?next=%2F" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
