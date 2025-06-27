@@ -1,31 +1,20 @@
-<h1 align="center">Hi 👋! My name is IronMan DS and I'm a Data Scientist from Earth 🧠</h1>
+<h1 align="center">Hi 👋, I'm Jigar Vishwakarma</h1>
+<h3 align="center">A passionate Data Scientist from India 🇮🇳, building invincible things with data-driven insights 🧠📊</h3>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigarvishwakarma&show_icons=true&theme=radical" />
-</p>
-
-<!-- GitHub Streak (if working) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jigarvishwakarma&theme=radical" />
-</p>
--->
+- 🎓 Currently mastering **Data Science & Machine Learning**
+- 💼 Focused on **End-to-End Data Projects**: from data wrangling to ML deployment
+- 🔭 Working on **AI-Powered Dashboards**, Forecasting models, and NLP use cases
+- 🧠 Inspired by **Tony Stark, Elon Musk, Jon Snow, King Baldwin** — strategic, fearless & visionary
+- 📫 How to reach me: `jigarvishwakarma333@gmail.com`
 
 ---
 
-## 🐍 Contribution Snake
+## 🚀 Tech Stack — Data Science Toolkit
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jigarvishwakarma/Jigarvishwakarma/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🚀 Data Science Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -44,35 +33,62 @@
 
 ---
 
-## 🌐 GitHub Language Usage Breakdown
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigarvishwakarma&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigarvishwakarma&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🧠 Data Science Knowledge
+## 🧠 Data Science Skillset
 
-- 📌 **Python for Data Science** – `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `SciPy`
-- 📌 **Data Analysis & Visualization**
-- 📌 **Statistics & Probability** – Distributions, Confidence Intervals
-- 📌 **SQL for Data Science**
-- 📌 **Machine Learning (Scikit-learn, XGBoost)**
-- 📌 **Deep Learning (TensorFlow, PyTorch)**
-- 📌 **LLMs and AI Toolkits**
-- 📌 **Git, GitHub, Docker, VS Code, Linux**
-- 📌 **Cloud: Basic AWS & HuggingFace usage**
+- 🔹 **Programming**: Python, R, SQL
+- 🔹 **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly
+- 🔹 **Machine Learning**: Regression, Classification, Clustering, Time-Series Forecasting
+- 🔹 **Deep Learning**: TensorFlow, Keras, PyTorch
+- 🔹 **NLP**: Text classification, sentiment analysis, LLMs
+- 🔹 **Data Viz**: Plotly, Dash, Streamlit, Tableau (Basics)
+- 🔹 **DevOps**: Git, GitHub, Conda, Docker, Linux
+- 🔹 **Deployment**: Flask, Streamlit, GitHub Pages
+- 🔹 **MLOps**: MLflow, DVC
+- 🔹 **Cloud (Basic)**: AWS (S3, EC2), Hugging Face models
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Language Usage (Sample Stats)
+
+| Language     | Usage % |
+|--------------|---------|
+| Python       | 72%     |
+| SQL          | 10%     |
+| Jupyter      | 8%      |
+| R            | 5%      |
+| Markdown     | 3%      |
+| Shell/Bash   | 2%      |
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:jigarvishwakarma333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jigarvishwakarma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:jigarvishwakarma333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jigarvishwakarma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
+---
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+> 🧠 “Turning raw data into real-world decisions.”
+
+> 💪 Built with courage, curiosity, and code.
