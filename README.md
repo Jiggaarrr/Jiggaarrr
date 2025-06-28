@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jigar Vishwakarma</h1>
-<h3 align="center">A passionate Data Scientist from India 🇮🇳, building invincible things with data-driven insights 🧠📊</h3>
+<h1 align="center">Hi , I'm Jigar Vishwakarma</h1>
+<h3 align="center">A passionate Data Scientist from India , building invincible things with data-driven insights 🧠📊</h3>
 
 ---
 
@@ -79,10 +79,10 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
 
-  <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/jigar-vishwakarma-2a8b57309" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/jigar-vishwakarma-2a8b57309" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/jiggaarrr.__/?next=%2F" target="_blank">
