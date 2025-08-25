@@ -75,7 +75,7 @@ Full pipeline: Data wrangling → Visualization → ML Model → Dep
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.threads.net/@your_threads_username" target="_blank">
+  <a href="https://www.threads.com/@jiggaarrr.__/media" target="_blank">
     <img alt="Threads" src="https://img.shields.io/badge/Threads-000000.svg?&style=for-the-badge&logo=threads&logoColor=white" />
   </a>
 
