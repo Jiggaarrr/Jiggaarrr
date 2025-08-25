@@ -1,83 +1,90 @@
-<h1 align="center">Hi , I'm Jigar Vishwakarma</h1>
-<h3 align="center">A passionate Data Scientist from India , building invincible things with data-driven insights 🧠📊</h3>
+<h1 align="center">👋 Hi, I'm Jigar Vishwakarma</h1>
+<h3 align="center">📊 Data Analyst | Machine Learning Enthusiast | Storytelling with Data</h3>
 
 ---
 
-## 📌 About Me
+## 🚀 About Me  
+I’m a **Data Analyst & Aspiring Data Scientist** passionate about solving **business problems with data**.  
+Currently pursuing **Engineering (2nd Year)** and building **end-to-end projects** that combine **Python, SQL, Power BI, and Machine Learning**.  
 
-- 🎓 Currently mastering **Data Science & Machine Learning**
-- 💼 Focused on **End-to-End Data Projects**: from data wrangling to ML deployment
-- 🔭 Working on **AI-Powered Dashboards**, Forecasting models, and NLP use cases
-- 🧠 Inspired by **Tony Stark, Elon Musk, Jon Snow, King Baldwin** — strategic, fearless & visionary
-- 📫 How to reach me: `vishwakarmajigar189@gmail.com`
+🔹 I enjoy working on:  
+- Data wrangling, cleaning & transformation  
+- Business dashboards & data visualization  
+- Predictive modeling & ML pipelines  
+- Deploying ML models as real-world apps  
 
----
-🚀 Tech Stack — Data Science Toolkit
-
-<p align="center" style="margin-top: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" style="margin: 8px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" style="margin: 8px;" /> </p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigarvishwakarma&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigarvishwakarma&layout=compact&theme=radical" />
-</p>
+📩 Reach me: **vishwakarmajigar189@gmail.com**  
 
 ---
 
-## 🧠 Data Science Skillset
+## 🛠️ Tech Stack  
 
-- 🔹 **Programming**: Python, R, SQL
-- 🔹 **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly
-- 🔹 **Machine Learning**: Regression, Classification, Clustering, Time-Series Forecasting
-- 🔹 **Deep Learning**: TensorFlow, Keras, PyTorch
-- 🔹 **NLP**: Text classification, sentiment analysis, LLMs
-- 🔹 **Data Viz**: Plotly, Dash, Streamlit, Tableau (Basics)
-- 🔹 **DevOps**: Git, GitHub, Conda, Docker, Linux
-- 🔹 **Deployment**: Flask, Streamlit, GitHub Pages
-- 🔹 **MLOps**: MLflow, DVC
-- 🔹 **Cloud (Basic)**: AWS (S3, EC2), Hugging Face models
+**Programming & Libraries**  
+`Python` • `SQL` • `R` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
----
+**Visualization & BI Tools**  
+`Power BI` • `Excel` • `Plotly`  
 
-## 🌐 Language Usage (Sample Stats)
+**Machine Learning & Deployment**  
+`Regression` • `Classification` • `Clustering` • `Feature Engineering` • `Flask`
 
-| Language     | Usage % |
-|--------------|---------|
-| Python       | 72%     |
-| SQL          | 10%     |
-| Jupyter      | 8%      |
-| R            | 5%      |
-| Markdown     | 3%      |
-| Shell/Bash   | 2%      |
+**Version Control & Tools**  
+`Git` • `GitHub` • `Jupyter` • `VS Code`
 
 ---
+
+## 📂 Featured Projects  
+
+✨ A selection of my projects (more in [Repositories](#)):  
+
+🔹 **Netflix Data Analysis (Python + Pandas)**  
+Explored 5,000+ titles to uncover content strategy shifts → visualized global trends in genres & regions.  
+
+🔹 **Zomato Business Dashboard (Power BI)**  
+Interactive dashboard for restaurant profitability & customer behavior → helped answer “Which cities are most profitable?”  
+
+🔹 **IMDB Scraper + SQL Database**  
+Scraped IMDB Top 250 → stored in SQL → analyzed genres linked with award-winning films.  
+
+🔹 **Titanic Survival Prediction (ML)**  
+Built classification model → explained *why women & children had higher survival chances* → Data storytelling focus.  
+
+🔹 **Capstone End-to-End ML Project (Flask)**  
+Full pipeline: Data wrangling → Visualization → ML Model → Dep
+
 
 ## 📫 Connect With Me
 
 <h3>Where to find me</h3>
-<p>
-  <!-- GitHub -->
+
+<div align="center">
+
   <a href="https://github.com/Jiggaarrr" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/jigar-vishwakarma-2a8b57309" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/jiggaarrr.__/?next=%2F" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <!-- Gmail (mailto link) -->
-  <a href="" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your_email@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+
+  <a href="https://www.threads.net/@your_threads_username" target="_blank">
+    <img alt="Threads" src="https://img.shields.io/badge/Threads-000000.svg?&style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+
+  <a href="https://huggingface.co/your_hf_username" target="_blank">
+    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+
+</div>
+
 
 ---
 
