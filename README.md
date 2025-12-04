@@ -1,56 +1,106 @@
-<h1 align="center">👋 Hi, I'm Jigar Vishwakarma</h1>
-<h3 align="center">📊 Data Analyst | Machine Learning Enthusiast | Storytelling with Data</h3>
+# 👋 Hey, I'm **Jigar Vishwakarma**  
+### 🚀 Full-Stack AI Engineer in the making | Building real intelligence end-to-end  
+
+I’m a 2nd-year Engineering student transforming myself into a **Full-Stack AI Engineer** —  
+from **Data → ML → Deep Learning → NLP → Computer Vision → GenAI → LangChain → RAG → Deployment → Automation**.
+
+I love building things that *think*, *learn*, and *solve problems*.
 
 ---
 
-## 🚀 About Me  
-I’m a **Data Analyst & Aspiring Data Scientist** passionate about solving **business problems with data**.  
-Currently pursuing **Engineering (2nd Year)** and building **end-to-end projects** that combine **Python, SQL, Power BI, and Machine Learning**.  
+## 🔥 What I Do
+I build **end-to-end AI systems**, not just models.
 
-🔹 I enjoy working on:  
-- Data wrangling, cleaning & transformation  
-- Business dashboards & data visualization  
-- Predictive modeling & ML pipelines  
-- Deploying ML models as real-world apps  
+- **Machine Learning Pipelines** (EDA → Feature Eng → Modeling → Deployment)  
+- **Deep Learning Models** (ANN, CNN, RNN/LSTMs)  
+- **NLP Solutions** (Text Classification, Embeddings, Transformers)  
+- **Computer Vision Apps** (OpenCV + CNN)  
+- **Generative AI Tools** (LLMs, LangChain, RAG, Vector DBs)  
+- **AI Automation Workflows** (APIs, Agents, n8n integrations – coming soon)  
+- **Deployments** (Streamlit, FastAPI, Flask, MLflow)  
 
-📩 Reach me: **vishwakarmajigar189@gmail.com**  
-
----
-
-## 🛠️ Tech Stack  
-
-**Programming & Libraries**  
-`Python` • `SQL` • `R` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn`
-
-**Visualization & BI Tools**  
-`Power BI` • `Excel` • `Plotly`  
-
-**Machine Learning & Deployment**  
-`Regression` • `Classification` • `Clustering` • `Feature Engineering` • `Flask`
-
-**Version Control & Tools**  
-`Git` • `GitHub` • `Jupyter` • `VS Code`
+I believe real learning happens by **building**, breaking things, fixing them, and improving daily.
 
 ---
 
-## 📂 Featured Projects  
+## 🧠 Tech Stack  
+### **Languages & Core**
+Python • SQL • Bash • Markdown  
 
-✨ A selection of my projects (more in [Repositories](#)):  
+### **Data & ML**
+NumPy • Pandas • Scikit-Learn • StatsModels • SciPy  
 
-🔹 **Netflix Data Analysis (Python + Pandas)**  
-Explored 5,000+ titles to uncover content strategy shifts → visualized global trends in genres & regions.  
+### **Deep Learning**
+TensorFlow • Keras • PyTorch (in progress)  
 
-🔹 **Zomato Business Dashboard (Power BI)**  
-Interactive dashboard for restaurant profitability & customer behavior → helped answer “Which cities are most profitable?”  
+### **NLP & GenAI**
+Transformers • HuggingFace • LangChain • LlamaIndex  
+Embeddings • Vector Databases (Chroma, FAISS) • RAG Pipelines  
 
-🔹 **IMDB Scraper + SQL Database**  
-Scraped IMDB Top 250 → stored in SQL → analyzed genres linked with award-winning films.  
+### **Visualization**
+Matplotlib • Seaborn • Plotly • Power BI • Excel  
 
-🔹 **Titanic Survival Prediction (ML)**  
-Built classification model → explained *why women & children had higher survival chances* → Data storytelling focus.  
+### **MLOps & Deployment**
+Streamlit • Flask • FastAPI • MLflow • Docker (learning)  
 
-🔹 **Capstone End-to-End ML Project (Flask)**  
-Full pipeline: Data wrangling → Visualization → ML Model → Dep
+### **Tools**
+Git • GitHub • Jupyter • VS Code • Postman  
+
+---
+
+## 🚀 Featured AI Projects  
+*(More in repositories — I’m building consistently)*  
+
+### 🔹 **1. AI RAG Chatbot (LangChain + Vector DB)**  
+Built a Retrieval-Augmented Generation chatbot that answers questions from custom documents.  
+**Tech:** LangChain, ChromaDB, Sentence Embeddings, Streamlit  
+
+---
+
+### 🔹 **2. Deep Learning Image Classifier**  
+CNN model trained on custom dataset → deployed with Streamlit.  
+**Tech:** TensorFlow/Keras, OpenCV, Streamlit  
+
+---
+
+### 🔹 **3. NLP Text Classification System**  
+Multi-class text classifier + explainability (SHAP/LIME) + deployment.  
+**Tech:** sklearn, NLP preprocessing, TF-IDF, FastAPI  
+
+---
+
+### 🔹 **4. Data Science End-to-End Project (EDA → Deployment)**  
+Cleaned + processed + visualized dataset → built ML model → deployed as web app.  
+**Tech:** Pandas, Seaborn, sklearn, Flask/Streamlit  
+
+---
+
+### 🔹 **5. Power BI Analytics Dashboard**  
+Interactive BI dashboard for real-world decision making.  
+**Tech:** PowerBI, DAX, Data Modeling  
+
+---
+
+## 📈 What I’m Currently Learning  
+- Deep Learning (CNNs, Vision Transformers)  
+- NLP (Transformers, BERT, LLM fine-tuning)  
+- LangChain, RAG & Vector Databases  
+- MLOps fundamentals  
+- AI Automation workflows (n8n)  
+
+---
+
+## 🎯 Vision (Why I Build)  
+To become a **Full-Stack AI Engineer** who can:  
+✔ understand data deeply  
+✔ design models intelligently  
+✔ deploy systems reliably  
+✔ automate workflows efficiently  
+✔ build AI products that create real impact  
+
+My GitHub is **my journey, my experiments, my growth, and my proof**.
+
+---
 
 
 ## 📫 Connect With Me
